@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-    </br></br>💡 <b>My hannel</b> 💡</br></br>
+    </br></br>💡 <b>My Channel</b> 💡</br></br>
   <a href="https://blog.parkjw.in/" target="_blank"><img src="https://img.shields.io/badge/My%20Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> <a href="https://www.instagram.com/p._.jw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
