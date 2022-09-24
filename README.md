@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/Apple-Mac_mini_(m1_2020)-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </div>
 
 <div align="center">
