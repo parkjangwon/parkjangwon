@@ -37,11 +37,8 @@
 
 <div align="center">
     </br></br>🖥️ <b>My Workspace Specs</b> 🖥️</br></br>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-</br>
 <img src="https://img.shields.io/badge/Apple-MacBook_PRO_(m1_2021)-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook_Air_(m3_2024)-999999?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 
 <div align="center">
