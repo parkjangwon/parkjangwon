@@ -36,6 +36,7 @@
     </br></br>🖥️ <b>My Workspace Specs</b> 🖥️</br></br>
 <img src="https://img.shields.io/badge/Apple-MacBook_PRO_(m1_2021)-999999?style=for-the-badge&logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_(m3_2024)-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacMini_(m1_2020)-999999?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 
 <div align="center">
