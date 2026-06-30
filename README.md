@@ -15,7 +15,7 @@ AI agentic coding · agents, routers, and small tools that ship.
 | | |
 | :--- | :--- |
 | [dream-code](https://github.com/parkjangwon/dream-code) | Termux-first AI coding agent |
-| [pi-pizza](https://github.com/parkjangwon/pi-pizza) | Multi-provider auto-router for [pi](https://github.com/anomalyco/pi) |
+| [pi-pizza](https://github.com/parkjangwon/pi-pizza) | Multi-provider auto-router for [pi](https://pi.dev) |
 | [pi-freerouter](https://github.com/parkjangwon/pi-freerouter) | Parallel free-model routing via OpenRouter |
 | [gogomail](https://github.com/parkjangwon/gogomail) | Open-source mail platform (Go) |
 | [stick](https://github.com/parkjangwon/stick) | macOS Korean filename NFC fix (Rust) |
