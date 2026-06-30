@@ -10,7 +10,7 @@ AI agentic coding · agents, routers, and small tools that ship.
 
 ---
 
-**Now** — coding agents on device and desktop, pi extensions, and open-source infra (mail, macOS utilities).
+**Now** — coding agents on device and desktop, pi extensions, and open-source infra
 
 | | |
 | :--- | :--- |
