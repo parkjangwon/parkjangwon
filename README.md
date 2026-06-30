@@ -4,7 +4,7 @@
 
 AI agentic coding · agents, routers, and small tools that ship.
 
-[blog.parkjw.org](https://blog.parkjw.org/)
+<a href="https://blog.parkjw.org/" target="_blank" rel="noopener noreferrer">blog.parkjw.org</a>
 
 </div>
 
